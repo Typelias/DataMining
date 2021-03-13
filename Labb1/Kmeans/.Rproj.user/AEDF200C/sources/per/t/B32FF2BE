@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612335725242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2471768850",
+    "id" : "B32FF2BE",
+    "lastKnownWriteTime" : 1612344751,
+    "last_content_update" : 1612344751258,
+    "path" : "C:/Users/typel/OneDrive/MIUN/Åk4/Data mining/Labbar/Labb1/Kmeans/Kmeans.R",
+    "project_path" : "Kmeans.R",
+    "properties" : {
+        "cursorPosition" : "32,31",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
